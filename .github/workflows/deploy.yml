@@ -7,9 +7,9 @@ on:
 
 env:
   PROJECT_NAME: cicd_project
-  BUCKET_NAME: kbsat-cicd-bucket
-  CODE_DEPLOY_APP_NAME: cicdapp
-  DEPLOYMENT_GROUP_NAME: cicdapp_deploy
+  BUCKET_NAME: cicd-demo-bucket11
+  CODE_DEPLOY_APP_NAME: cd-demo
+  DEPLOYMENT_GROUP_NAME: cdrole
 
 jobs:
   build:

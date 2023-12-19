@@ -8,7 +8,7 @@ public class UserController {
 
     @GetMapping("/hello")
     public String helloWorld(){
-        return "cicdtest";
+        return "cicd check";
     }
 
 

@@ -6,7 +6,7 @@ on:
     branches: [ master ]
 
 env:
-  PROJECT_NAME: cicd_project
+  PROJECT_NAME: demo
   BUCKET_NAME: cicd-demo-bucket11
   CODE_DEPLOY_APP_NAME: cd-demo
   DEPLOYMENT_GROUP_NAME: cdrole
